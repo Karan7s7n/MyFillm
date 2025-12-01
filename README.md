@@ -1,6 +1,6 @@
 # 🎬 Vixoo - Movie Finder Website
 
-Vixoo is a fast, stylish, and interactive movie search web application. Built using a modern stack like Vite, TypeScript, and TailwindCSS, it's integrated with the TMDb API for movie data and Supabase for user authentication and data storage.
+Vixoo is a fast, stylish, and interactive movie search web application. Built using a modern stack like Vite, TypeScript, and TailwindCSS, it's integrated with the TMDb API for movie data and Supabase for user authentication and data storagge.
 
 ---
 
