@@ -17,8 +17,8 @@ export default function Footer() {
     {
       name: 'Website',
       icon: Globe,
-      url: 'https://muhammadyusufaditiya.com',
-      ariaLabel: 'Visit Muhammad Yusuf Aditiya\'s personal website'
+      url: '',
+      ariaLabel: 'Visit Karan Singh Negi\'s personal website'
     },
     {
       name: 'Instagram',
