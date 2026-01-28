@@ -1,6 +1,5 @@
 const API_KEY = '58de8bf3f3cb86feb9f8528c883cc993';
 const BASE_URL = 'https://api.themoviedb.org/3';
-const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500';
 
 export interface Movie {
   id: number;
