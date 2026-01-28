@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Linkedin, Globe, Instagram } from 'lucide-react';
 
 export default function Footer() {
@@ -6,14 +5,14 @@ export default function Footer() {
     {
       name: 'GitHub',
       icon: Github,
-      url: 'https://github.com/muhammadyusufaditiya',
-      ariaLabel: 'Visit Muhammad Yusuf Aditiya\'s GitHub profile'
+      url: 'https://github.com/Karan7s7n',
+      ariaLabel: 'Visit Karan7s7n\'s GitHub profile'
     },
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      url: 'https://linkedin.com/in/muhammadyusufaditiya',
-      ariaLabel: 'Visit Muhammad Yusuf Aditiya\'s LinkedIn profile'
+      url: 'https://www.linkedin.com/in/karan-singh-negi-0098532b5',
+      ariaLabel: 'Visit Karan Singh Negi\'s LinkedIn profile'
     },
     {
       name: 'Website',
@@ -24,8 +23,8 @@ export default function Footer() {
     {
       name: 'Instagram',
       icon: Instagram,
-      url: 'https://instagram.com/muhammadyusufaditiya',
-      ariaLabel: 'Visit Muhammad Yusuf Aditiya\'s Instagram profile'
+      url: '',
+      ariaLabel: 'Visit \'s Instagram profile'
     }
   ];
 
@@ -63,19 +62,12 @@ export default function Footer() {
           </div>
 
           {/* Made By Text */}
-          <div className="text-center">
-            <p className="text-sm sm:text-base text-gray-400 font-medium">
-              Made with <span className="text-red-500 animate-pulse">❤️</span> by{' '}
-              <span className="text-[#8b5cf6] font-semibold hover:text-white transition-colors duration-300 cursor-default">
-                Muhammad Yusuf Aditiya
-              </span>
-            </p>
-          </div>
+          
 
           {/* Copyright */}
           <div className="text-center pt-2 border-t border-gray-700/50 w-full">
             <p className="text-xs sm:text-sm text-gray-500">
-              © {new Date().getFullYear()} Vixo. All rights reserved.
+              © {new Date().getFullYear()} MyFillm. All rights reserved.
             </p>
           </div>
         </div>

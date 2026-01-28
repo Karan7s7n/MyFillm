@@ -33,7 +33,7 @@ export default function Layout({ children }: LayoutProps) {
                   className="h-5 w-5 sm:h-6 sm:w-6 object-contain"
                 />
               </div>
-              <span className="text-base sm:text-lg font-bold font-mono tracking-wider">Vixo</span>
+              <span className="text-base sm:text-lg font-bold font-mono tracking-wider">My Fillm</span>
             </Link>
 
             <div className="flex items-center space-x-1 sm:space-x-4">
