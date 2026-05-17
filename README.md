@@ -147,7 +147,7 @@ Pagination & infinite scrolling
 
 👨‍💻 Developer
 
-Karan
+Karan Singh Negi
 Frontend Developer | React | TypeScript | JavaScript
 
 GitHub: https://github.com/Karan7s7n
